@@ -56,22 +56,6 @@ ANSWER: B
 
 ## Quiz Syntax Guide
 
-To add a quiz to your markdown, use the following syntax:
+To add a quiz and use this look at https://github.com/d-ries/marked-quiz-demo/edit/main/README.md
 
-```
-~QUIZ
-Q: Your question here?
-A) Option A
-B) Option B
-C) Option C
-D) Option D
-ANSWER: C
-~
-```
-
-**Rules:**
-- Start with `~QUIZ` on its own line
-- Begin your question with `Q:`
-- List options with `A)`, `B)`, `C)`, `D)`, etc.
-- Specify the correct answer with `ANSWER:` (use the letter)
-- End with `~` on its own line
+and then use the tool at https://d-ries.github.io/markdown/
